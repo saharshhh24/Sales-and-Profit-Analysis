@@ -66,7 +66,7 @@ Visualization: Line chart
 Insight: 
 * Identifies peak and slow sales months for better inventory and marketing planning.
 * Displays sales variations over months.
------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2. Sales Analysis by Product Category
 
@@ -74,6 +74,7 @@ Insight:
 
 Visualization: Pie chart
 Insight: Provides a detailed breakdown of sales performance within product categories.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 3. Sales Analysis by Sub-Category
 
@@ -81,6 +82,7 @@ Insight: Provides a detailed breakdown of sales performance within product categ
 
 Visualization: Bar chart
 Insight: Highlights best and worst-performing product categories.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 4. Monthly Profit Analysis
 
@@ -90,6 +92,7 @@ Visualization: Bar chart
 Insight: 
 * Helps identify periods of maximum profitability.
 * Identifies profit fluctuations over time.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 5. Profit Analysis by Category and Sub-Category
 
@@ -101,6 +104,7 @@ Visualization: Pie chart, Bar Chart
 Insight: 
 * Determines which product categories and sub-categories are the most profitable.
 * Shows profit contribution by category.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 6. Sales and Profit Analysis by Customer Segment
 
@@ -110,12 +114,14 @@ Visualization: Bar chart
 Insight: 
 * Helps in understanding purchasing behavior across different customer groups.
 * Helps in targeted marketing strategies.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 7. Sales-to-Profit Ratio Analysis
 
 ![E-Commerce_Project_11](https://github.com/user-attachments/assets/653f9813-2863-4907-836b-a3180250eb45)
 
 Insight: Evaluates business efficiency and profitability.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Key Findings and Insights
 
