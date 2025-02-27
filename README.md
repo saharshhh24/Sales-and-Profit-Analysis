@@ -123,6 +123,7 @@ Insight:
 ![E-Commerce_Project_11](https://github.com/user-attachments/assets/653f9813-2863-4907-836b-a3180250eb45)
 
 Insight: Evaluates business efficiency and profitability.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Key Findings and Insights
