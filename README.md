@@ -66,6 +66,7 @@ Visualization: Line chart
 Insight: 
 * Identifies peak and slow sales months for better inventory and marketing planning.
 * Displays sales variations over months.
+-----------------------------------------------------------------------------------------------
 
 2. Sales Analysis by Product Category
 
