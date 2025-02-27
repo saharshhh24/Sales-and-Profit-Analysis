@@ -74,6 +74,7 @@ Insight:
 
 Visualization: Pie chart
 Insight: Provides a detailed breakdown of sales performance within product categories.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 3. Sales Analysis by Sub-Category
@@ -82,6 +83,7 @@ Insight: Provides a detailed breakdown of sales performance within product categ
 
 Visualization: Bar chart
 Insight: Highlights best and worst-performing product categories.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 4. Monthly Profit Analysis
