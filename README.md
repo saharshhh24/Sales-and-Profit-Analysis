@@ -28,6 +28,8 @@ This project focuses on analyzing E-Commerce sales and profit data using Python,
 
 # Installation
 
+![E-Commerce_Project_1](https://github.com/user-attachments/assets/3aaf36e8-b7a0-43b5-b955-924fdd62abff)
+
 1. import pandas as pd → Data manipulation (e.g., reading CSV, filtering, aggregating).
 2. import plotly.express as px → Simple, high-level interactive visualizations.
 3. import plotly.graph_objects as go → Custom, detailed plotly charts.
@@ -35,5 +37,13 @@ This project focuses on analyzing E-Commerce sales and profit data using Python,
 5. import plotly.colors as colors → Accessing color scales for custom styling.
 6. pio.templates.default = "plotly_white" → Sets a clean white background for all plots. 
 
+# Data Importing
 
+![image](https://github.com/user-attachments/assets/c0f0868f-d2e2-411a-aff8-e77ab13e041c)
+
+Breakdown:
+* pd.read_csv("Store_Data.csv") → Reads the CSV file into a DataFrame.
+* encoding='latin-1' → Specifies the character encoding to handle special characters (useful for non-UTF-8 files).
+
+data = pd.read_csv("Store_Data.csv", encoding = 'latin-1')
 Data Analysis Using Python:
