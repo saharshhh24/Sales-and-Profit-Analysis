@@ -46,5 +46,15 @@ Breakdown:
 * pd.read_csv("Store_Data.csv") → Reads the CSV file into a DataFrame.
 * encoding='latin-1' → Specifies the character encoding to handle special characters (useful for non-UTF-8 files).
 
-data = pd.read_csv("Store_Data.csv", encoding = 'latin-1')
-Data Analysis Using Python:
+# Converting Data Columns
+Converting 'Order Date' and 'Ship Date' from object to datetime64[ns] allows efficient date-based analysis, sorting, and filtering. It enables operations like calculating delivery time, extracting year/month, and performing time-series analysis. Additionally, it optimizes memory usage and unlocks powerful date functions using .dt accessor. This conversion is essential for accurate and efficient data handling in analytics projects.
+
+![E-Commerce_Project_2](https://github.com/user-attachments/assets/9de7376e-31f4-4d21-81c1-23444054a90b)
+
+Extracting date-related features from 'Order Date' enables time-based analysis. 'Order Month', 'Order Year', and 'Order Day of Week' help identify trends, peak sales periods, and customer behavior patterns over time.
+
+![E-Commerce_Project_3](https://github.com/user-attachments/assets/a84acfd0-7299-47ee-9d3a-ca50716b206d)
+
+# Data Analysis Using Python:
+
+
