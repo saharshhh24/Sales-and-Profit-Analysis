@@ -28,7 +28,8 @@ This project focuses on analyzing E-Commerce sales and profit data using Python,
 
 # Installation
 
-![E-Commerce_Project_1](https://github.com/user-attachments/assets/3aaf36e8-b7a0-43b5-b955-924fdd62abff)
+![E-Commerce_Project_1](https://github.com/user-attachments/assets/004facb1-7248-497b-bcbb-193eec4b4d11)
+
 
 1. import pandas as pd → Data manipulation (e.g., reading CSV, filtering, aggregating).
 2. import plotly.express as px → Simple, high-level interactive visualizations.
